@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\huy\\ue\\combo_game\\test_combat_huypg\\plugins\\didithit\\source\\didithit\\private\\didithitactorcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\huy\\ue\\combo_game\\test_combat_huypg\\intermediate\\build\\win64\\x64\\test_combat_huypgeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\huy\\ue\\combo_game\\test_combat_huypg\\plugins\\didithit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\didithit\\definitions.didithit.h",
+            "d:\\huy\\ue\\combo_game\\test_combat_huypg\\plugins\\didithit\\source\\didithit\\public\\didithitactorcomponent.h",
+            "d:\\ue\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\ue\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\huy\\ue\\combo_game\\test_combat_huypg\\plugins\\didithit\\intermediate\\build\\win64\\unrealeditor\\inc\\didithit\\uht\\didithitactorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
