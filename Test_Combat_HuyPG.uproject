@@ -16,10 +16,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "DidItHit",
-			"Enabled": true
-		},
-		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
 		}
