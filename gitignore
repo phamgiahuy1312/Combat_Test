@@ -1,6 +1,15 @@
 # Visual Studio 2015 user specific files
 .vs/
-
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+*.pdb
+*.obj
+*.pch
+*.log
 # Compiled Object files
 *.slo
 *.lo
